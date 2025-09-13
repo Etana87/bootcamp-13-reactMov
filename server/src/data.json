@@ -23,6 +23,30 @@
       "name": "Ahorro",
       "balance": 8500,
       "lastTransaction": "2019-11-15T08:29:04"
+    },
+    {
+      "iban": "CY56 0090 0041 0M88 5791 4479 77Q9",
+      "name": "Mercedes",
+      "type": "corriente",
+      "balance": 0,
+      "lastTransaction": "2025-09-13T15:10:15.468Z",
+      "id": "5tqEPJ2"
+    },
+    {
+      "iban": "TR32 0914 0014 0775 5T15 3550 4P",
+      "name": "Ares",
+      "type": "ahorro",
+      "balance": 0,
+      "lastTransaction": "2025-09-13T15:10:23.426Z",
+      "id": "kEvRSuo"
+    },
+    {
+      "iban": "EE11 1520 0905 5034 0065",
+      "name": "loligtyr",
+      "type": "corriente",
+      "balance": 0,
+      "lastTransaction": "2025-09-13T15:21:07.811Z",
+      "id": "s0ur4Qo"
     }
   ],
   "movements": [
